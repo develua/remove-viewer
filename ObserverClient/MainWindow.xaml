@@ -1,0 +1,27 @@
+﻿<Window x:Class="ObserverClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Remote View Desktop" Height="490" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">
+            <TextBlock Text="IP-Адрес:" VerticalAlignment="Center" Margin="5"/>
+            <TextBox Name="tbIPAddress" Width="90" Margin="5" Padding="3"/>
+            <TextBlock Text="Скорость обновления:" VerticalAlignment="Center" Margin="5"/>
+            <TextBox Name="tbSpeed" Width="40" Margin="5" Text="300" Padding="3"/>
+            <Button Name="btnStartStop" Content="Старт" Width="60" Margin="5" Click="BtnSave_Click"/>
+        </StackPanel>
+
+        <Separator Grid.Row="1"/>
+        
+        <ScrollViewer Grid.Row="2" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+            <Image Name="imgDesktopServic"/>
+        </ScrollViewer>
+
+    </Grid>
+</Window>

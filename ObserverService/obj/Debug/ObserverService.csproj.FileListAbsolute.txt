@@ -1,0 +1,12 @@
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_1_1\ObserverService\bin\Debug\ObserverService.exe.config
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_1_1\ObserverService\bin\Debug\ObserverService.exe
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_1_1\ObserverService\bin\Debug\ObserverService.pdb
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_1_1\ObserverService\obj\Debug\ObserverService.exe
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_1_1\ObserverService\obj\Debug\ObserverService.pdb
+C:\Users\Игорь\documents\visual studio 2013\Projects\lab_work_1_1\ObserverService\obj\Debug\ObserverService.csprojResolveAssemblyReference.cache
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\lab_work_1_1\ObserverService\bin\Debug\ObserverService.exe.config
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\lab_work_1_1\ObserverService\obj\Debug\ObserverService.exe
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\lab_work_1_1\ObserverService\obj\Debug\ObserverService.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\lab_work_1_1\ObserverService\bin\Debug\ObserverService.exe
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\lab_work_1_1\ObserverService\bin\Debug\ObserverService.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\lab_work_1_1\ObserverService\obj\Debug\ObserverService.csprojResolveAssemblyReference.cache
